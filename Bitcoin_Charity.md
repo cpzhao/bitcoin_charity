@@ -1,3 +1,5 @@
+#Bitcoin Charity
+
 ***100% transparent charity, made possible by bitcoins.*
 **
 
