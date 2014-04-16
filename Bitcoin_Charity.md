@@ -1,7 +1,6 @@
 #Bitcoin Charity
 
-***100% transparent charity, made possible by bitcoins.*
-**
+***100% transparent charity, made possible by bitcoins.***
 
 ![Bitcoin Charity Logo](http://cpzhao.com/wp-content/uploads/2014/04/bitcoin_charity.png "Bitcoin Charity Logo")
 
