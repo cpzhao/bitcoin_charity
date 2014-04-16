@@ -72,7 +72,7 @@ We hope with this simple concept, charities can easily achieve fully financial t
 
 **Author(s):**
 
-Changpeng Zhao. First Draft. 2014/04/15
+Changpeng Zhao. First Draft. 2014/04/15 <http://cpzhao.com/a-bitcoin-charity-concept/>
 
 **Credits:**
 
