@@ -70,6 +70,8 @@ Both of the above tools should require minimum implementation effort.  The cost 
 We hope with this simple concept, charities can easily achieve fully financial transparency and do more good for the world!
 
 
+Translations welcome!
+
 **Author(s):**
 
 Changpeng Zhao. First Draft. 2014/04/15 <http://cpzhao.com/a-bitcoin-charity-concept/>
