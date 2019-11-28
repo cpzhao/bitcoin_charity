@@ -1,4 +1,4 @@
-#Bitcoin Charity
+#Bitcoin Charity & BNB Charity
 
 ***100% transparent charity, made possible by bitcoins.***
 
